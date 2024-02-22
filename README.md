@@ -2,6 +2,6 @@
   "name": "gabela",
   "website": "soon",
   "description": "eigenra node",
-  "logo": "",
+  "logo": "soon",
   "twitter": "@gabelina5"
 }
