@@ -5,4 +5,3 @@
   "logo": "",
   "twitter": "@gabelina5"
 }
-# mangata
